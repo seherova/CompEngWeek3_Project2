@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="countries">
+
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+        <item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item><item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item><item name = "us">USA</item>
+        <item name = "tr">Turkiye</item>
+        <item name = "fr">France</item>
+        <item name = "ita">Italy</item>
+        <item name = "kr">Korea</item>
+
+
+    </string-array>
+</resources>
